@@ -1,0 +1,5 @@
+*.perso.py
+__pycache__
+.idea
+.vscode
+.venv
